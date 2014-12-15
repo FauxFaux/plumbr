@@ -1,0 +1,11 @@
+syntax: glob
+.idea
+build
+.gradle
+numbers.txt
+src/main/java/fast
+*.iml
+.project
+.settings
+bin
+.classpath
